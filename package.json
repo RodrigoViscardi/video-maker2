@@ -1,0 +1,19 @@
+{
+  "name": "video-maker2",
+  "version": "1.0.0",
+  "description": "video maker open source",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoViscardi/video-maker2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodrigoViscardi/video-maker2/issues"
+  },
+  "homepage": "https://github.com/RodrigoViscardi/video-maker2#readme"
+}
